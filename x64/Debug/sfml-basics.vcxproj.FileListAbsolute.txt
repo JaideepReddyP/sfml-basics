@@ -1,0 +1,1 @@
+G:\sfml-basics\x64\Debug\sfml-basics.exe
